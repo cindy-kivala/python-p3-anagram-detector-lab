@@ -10,6 +10,6 @@ class Anagram:
         ]
     
 # Example usage:
- anagram = Anagram("listen")
- print(anagram.match(["enlist", "google", "inlets", "banana"]))
+ #anagram = Anagram("listen")
+ #print(anagram.match(["enlist", "google", "inlets", "banana"]))
 # Output: ['enlist', 'inlets']  
